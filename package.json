@@ -1,0 +1,14 @@
+{
+  "name": "flow-node-experiments",
+  "version": "1.0.0",
+  "description": "trying out flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "flow check"
+  },
+  "author": "Glen Mailer <glen@stainlessed.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "node-jsx": "^0.12.4"
+  }
+}
